@@ -6,4 +6,4 @@ Proyecto desarrollado del marco del modulo de Gestion de Software en la carrera 
 3. script.jss: Metodos javascript para movimiento de objetos
 4/ im/s: Imagenes del proyecti
 
-...
+67890
